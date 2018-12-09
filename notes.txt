@@ -1,1 +1,2 @@
 The implementation of this paper will be done on country-product-year trade data from CID's official website.
+The premise of this exercise is that, in analyzing the evolution of the world trade, we want to track the 'evolution of similarities'.
